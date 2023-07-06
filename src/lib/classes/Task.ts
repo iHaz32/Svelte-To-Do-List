@@ -1,19 +1,12 @@
 class Task {
   // properties
-  title: String;
-  completed: boolean;
+  title: string;
   editing: boolean;
 
   // constructor
-  constructor(title: String) {
+  constructor(title: string) {
     this.title = title;
-    this.completed = false;
     this.editing = false;
-  }
-
-  // methods
-  toggleCompleted() {
-    this.completed = !this.completed;
   }
 }
   
