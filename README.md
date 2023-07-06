@@ -23,4 +23,4 @@ To get a local copy of this project up and running, follow these steps:
 
 ## Disclaimer
 
-Website is not finished!
+Website is finished with a simple design!
