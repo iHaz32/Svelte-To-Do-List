@@ -16,12 +16,11 @@ This is a simple to-do list application built with Svelte and styled using Tailw
 
 To get a local copy of this project up and running, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/todo-list.git`
-2. Navigate to the project directory: `cd todo-list`
+1. Clone this repository: `git clone https://github.com/iHaz32/Svelte-To-Do-List`
+2. Navigate to the project directory using cd.
 3. Install the dependencies: `npm install`
-4. Start the development server: `npm run dev`
-5. Open your browser and visit `http://localhost:5000` to see the application in action.
+4. Start the development server: `npm run dev -- --open`
 
 ## Disclaimer
 
-Not finished
+Website is not finished!
