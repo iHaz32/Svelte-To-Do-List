@@ -1,6 +1,6 @@
 # To-Do List App
 
-This is a simple to-do list application built with Svelte and styled using Tailwind CSS. It allows you to create, read, update, and delete tasks, while providing a responsive design for optimal user experience.
+This is a simple to-do list application built with Svelte and styled using Tailwind CSS. It allows you to create, read, update, and delete tasks, while providing a responsive design for optimal user experience. Uses object oritented programming.
 
 ## Technologies Used
 
